@@ -32,14 +32,14 @@
   "main": "server.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ashrut05/COMP229-Express-Portfolio-AshrutSharma.git"
+    "url": "git+https://github.com/ashrut05/ExpressPortfolio_Assignment2_Authentication.git"
   },
   "author": "Ashrut Sharma",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ashrut05/COMP229-Express-Portfolio-AshrutSharma/issues"
+    "url": "https://github.com/ashrut05/ExpressPortfolio_Assignment2_Authentication/issues"
   },
-  "homepage": "https://github.com/ashrut05/COMP229-Express-Portfolio-AshrutSharma#readme",
+  "homepage": "https://github.com/ashrut05/ExpressPortfolio_Assignment2_Authentication#readme",
   "devDependencies": {
     "@types/connect-flash": "^0.0.36",
     "@types/express": "^4.17.11",
