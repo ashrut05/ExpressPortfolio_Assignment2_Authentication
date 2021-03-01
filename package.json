@@ -28,7 +28,7 @@
     "passport-local-mongoose": "^6.1.0",
     "popper.js": "^1.16.1"
   },
-  "description": "Express Porfolio Assignment 1 COMP 229",
+  "description": "Express Porfolio Assignment 2 COMP 229",
   "main": "server.js",
   "repository": {
     "type": "git",
